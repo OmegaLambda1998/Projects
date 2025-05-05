@@ -1,0 +1,12 @@
+[submodule "Configurations"]
+	path = Configurations
+	url = ./Configurations/
+[submodule "Lazuli"]
+	path = Lazuli
+	url = ./Lazuli/
+[submodule "Pengolodh"]
+	path = Pengolodh
+	url = ./Pengolodh/
+[submodule "SCP"]
+	path = SCP
+	url = ./SCP/
