@@ -1,15 +1,15 @@
 [submodule "Configurations"]
 	path = Configurations
-	url = ./Configurations/
+	url = https://github.com/OmegaLambda1998/Configurations
 [submodule "Lazuli"]
 	path = Lazuli
-	url = ./Lazuli/
+	url = https://github.com/OmegaLambda1998/Lazuli
 [submodule "Pengolodh"]
 	path = Pengolodh
-	url = ./Pengolodh/
+	url = https://github.com/OmegaLambda1998/Pengolodh
 [submodule "SCP"]
 	path = SCP
-	url = ./SCP/
+	url = https://github.com/OmegaLambda1998/SCP
 [submodule "AstroCloud"]
 	path = AstroCloud
-	url = ./AstroCloud/
+	url = https://github.com/OmegaLambda1998/AstroCloud
