@@ -1,15 +1,15 @@
 [submodule "Configurations"]
 	path = Configurations
-	url = https://github.com/OmegaLambda1998/Configurations
+        url = git@github.com:OmegaLambda1998/Configurations.git
 [submodule "Lazuli"]
 	path = Lazuli
-	url = https://github.com/OmegaLambda1998/Lazuli
+        url = git@github.com:OmegaLambda1998/Lazuli.git
 [submodule "Pengolodh"]
 	path = Pengolodh
-	url = https://github.com/OmegaLambda1998/Pengolodh
+        url = git@github.com:OmegaLambda1998/Pengolodh.git
 [submodule "SCP"]
 	path = SCP
-	url = https://github.com/OmegaLambda1998/SCP
+        url = git@github.com:OmegaLambda1998/SCP.git
 [submodule "AstroCloud"]
 	path = AstroCloud
-	url = https://github.com/OmegaLambda1998/AstroCloud
+        url = git@github.com:OmegaLambda1998/AstroCloud.git
