@@ -10,3 +10,6 @@
 [submodule "SCP"]
 	path = SCP
 	url = ./SCP/
+[submodule "AstroCloud"]
+	path = AstroCloud
+	url = ./AstroCloud/
